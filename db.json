@@ -1,83 +1,83 @@
 {
-  "products": [{
+"products":[{
   "id": 1,
-  "first_name": "Common turkey",
-  "last_name": "Turquoise"
+  "name": "Snowy egret",
+  "category": "Aquamarine"
 }, {
   "id": 2,
-  "first_name": "Red-breasted cockatoo",
-  "last_name": "Purple"
+  "name": "Woodrat (unidentified)",
+  "category": "Indigo"
 }, {
   "id": 3,
-  "first_name": "Eagle, african fish",
-  "last_name": "Indigo"
+  "name": "Penguin, fairy",
+  "category": "Puce"
 }, {
   "id": 4,
-  "first_name": "Bear, polar",
-  "last_name": "Aquamarine"
+  "name": "Black-eyed bulbul",
+  "category": "Goldenrod"
 }, {
   "id": 5,
-  "first_name": "Sarus crane",
-  "last_name": "Violet"
+  "name": "Spotted wood sandpiper",
+  "category": "Violet"
 }, {
   "id": 6,
-  "first_name": "Skink, african",
-  "last_name": "Green"
+  "name": "Grenadier, common",
+  "category": "Violet"
 }, {
   "id": 7,
-  "first_name": "Goose, greylag",
-  "last_name": "Crimson"
+  "name": "Chilean flamingo",
+  "category": "Aquamarine"
 }, {
   "id": 8,
-  "first_name": "Wolf spider",
-  "last_name": "Orange"
+  "name": "Chacma baboon",
+  "category": "Red"
 }, {
   "id": 9,
-  "first_name": "Waxbill, blue",
-  "last_name": "Maroon"
+  "name": "Small-toothed palm civet",
+  "category": "Puce"
 }, {
   "id": 10,
-  "first_name": "Dragon, asian water",
-  "last_name": "Pink"
+  "name": "Gelada baboon",
+  "category": "Purple"
 }, {
   "id": 11,
-  "first_name": "Bengal vulture",
-  "last_name": "Goldenrod"
+  "name": "Ornate rock dragon",
+  "category": "Crimson"
 }, {
   "id": 12,
-  "first_name": "Smith's bush squirrel",
-  "last_name": "Red"
+  "name": "Goose, cereopsis",
+  "category": "Goldenrod"
 }, {
   "id": 13,
-  "first_name": "Pale-throated three-toed sloth",
-  "last_name": "Orange"
+  "name": "Sandhill crane",
+  "category": "Purple"
 }, {
   "id": 14,
-  "first_name": "Madagascar hawk owl",
-  "last_name": "Orange"
+  "name": "Cook's tree boa",
+  "category": "Violet"
 }, {
   "id": 15,
-  "first_name": "Mallard",
-  "last_name": "Khaki"
+  "name": "Tern, white-winged black",
+  "category": "Fuscia"
 }, {
   "id": 16,
-  "first_name": "Sambar",
-  "last_name": "Pink"
+  "name": "Spectacled caiman",
+  "category": "Indigo"
 }, {
   "id": 17,
-  "first_name": "European spoonbill",
-  "last_name": "Turquoise"
+  "name": "Otter, small-clawed",
+  "category": "Khaki"
 }, {
   "id": 18,
-  "first_name": "European shelduck",
-  "last_name": "Aquamarine"
+  "name": "Lizard, blue-tongued",
+  "category": "Aquamarine"
 }, {
   "id": 19,
-  "first_name": "Dolphin, bottle-nose",
-  "last_name": "Indigo"
+  "name": "Snake, eastern indigo",
+  "category": "Khaki"
 }, {
   "id": 20,
-  "first_name": "Capuchin, black-capped",
-  "last_name": "Crimson"
+  "name": "Pie, indian tree",
+  "category": "Green"
 }]
 }
